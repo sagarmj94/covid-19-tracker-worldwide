@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+*{
+  font-family: 'Ubuntu', sans-serif;
+}
+.App{
+  font-family: sans-serif;
+  text-align:center
+}
+.tb-row{
+  background: #191842;
+  color: aliceblue;
+  text-align: center;
+}
+td{
+  text-align: center;
+  
+color: #191842;
+
+}
